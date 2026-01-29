@@ -1,3 +1,7 @@
 aiohttp
 aiohttp-socks
 rich
+streamlit
+requests
+beautifulsoup4
+colorama
